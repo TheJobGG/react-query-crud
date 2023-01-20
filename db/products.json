@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "name": "Smartphone",
+      "description": "5G-enabled smartphone with a triple-lens camera and large battery",
+      "price": 800,
+      "stock": 42,
+      "tags": [
+        "5G",
+        "triple-lens camera",
+        "large battery"
+      ],
+      "category": "Electronics"
+    },
+    {
+      "id": 12,
+      "name": "Tablet",
+      "description": "10.5-inch tablet with a high-resolution display and stylus support",
+      "price": 400,
+      "stock": 87,
+      "tags": [
+        "10.5-inch",
+        "high-resolution display",
+        "stylus support"
+      ],
+      "category": "Electronics"
+    },
+    {
+      "id": 13,
+      "name": "Smartwatch",
+      "description": "Fitness-focused smartwatch with heart rate monitoring and GPS",
+      "price": 250,
+      "stock": 29,
+      "tags": [
+        "fitness-focused",
+        "heart rate monitoring",
+        "GPS"
+      ],
+      "category": "Wearable"
+    },
+    {
+      "id": 14,
+      "name": "Fitness Tracker",
+      "description": "Waterproof fitness tracker with a long battery life and sleep tracking",
+      "price": 100,
+      "stock": 12,
+      "tags": [
+        "waterproof",
+        "long battery life",
+        "sleep tracking"
+      ],
+      "category": "Wearable"
+    },
+    {
+      "id": 15,
+      "name": "Electric Bike",
+      "description": "High-performance electric bike with a range of 40 miles and 20mph top speed",
+      "price": 1500,
+      "stock": 73,
+      "tags": [
+        "high-performance",
+        "40 mile range",
+        "20mph top speed"
+      ],
+      "category": "Transportation"
+    },
+    {
+      "id": 16,
+      "name": "Smart Scale",
+      "description": "Bluetooth-enabled smart scale with body composition analysis and app integration",
+      "price": 50,
+      "stock": 73,
+      "tags": [
+        "bluetooth-enabled",
+        "body composition analysis",
+        "app integration"
+      ],
+      "category": "Health"
+    },
+    {
+      "id": 17,
+      "name": "Drone",
+      "description": "4K camera drone with GPS stabilization and obstacle avoidance",
+      "price": 800,
+      "stock": 19,
+      "tags": [
+        "4K camera",
+        "GPS stabilization",
+        "obstacle avoidance"
+      ],
+      "category": "Electronics"
+    },
+    {
+      "id": 18,
+      "name": "Smart Thermostat",
+      "description": "Wi-Fi-enabled smart thermostat with voice control and energy-saving features",
+      "price": 150,
+      "stock": 54,
+      "tags": [
+        "Wi-Fi-enabled",
+        "voice control",
+        "energy-saving"
+      ],
+      "category": "Smart Home"
+    },
+    {
+      "id": 19,
+      "name": "Robot Vacuum",
+      "description": "Smart robot vacuum with mapping and scheduling capabilities",
+      "price": 300,
+      "stock": 31,
+      "tags": [
+        "smart",
+        "mapping",
+        "scheduling"
+      ],
+      "category": "Smart Home"
+    },
+    {
+      "id": 20,
+      "name": "Smart Security Camera",
+      "description": "Wireless smart security camera with night vision and two-way audio",
+      "price": 100,
+      "stock": 0,
+      "tags": [
+        "wireless",
+        "night vision",
+        "two-way audio"
+      ],
+      "category": "Smart Home"
+    },
+    {
+      "name": "Headphones",
+      "price": "200",
+      "tags": [
+        "Bluetooth",
+        "Folding Music",
+        "Portatil"
+      ],
+      "category": "Electronics",
+      "description": "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears.",
+      "stock": 45,
+      "id": 22
+    }
+  ]
+}
