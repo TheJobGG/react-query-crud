@@ -28,7 +28,7 @@ function Products() {
 
 
   return data.map(product => (
-    <div key={product.id} className="bg-slate-700 w-[300px] py-5 px-5 rounded-md flex flex-col items-stretch hover:shadow-[0_5px_60px_-15px_rgba(150,150,150,0.3)] transition-shadow">
+    <div key={product.id} className={`relative ${product.stock > 0 ? "bg-slate-700" : "bg-[#2E0219]"} w-[300px] py-5 px-5 rounded-md flex flex-col items-stretch hover:shadow-[0_5px_60px_-15px_rgba(150,150,150,0.3)] transition-shadow`}>
       <div className="min-h-full relative mb-12">
         <h3 className="text-center text-xl pb-3 break-words">{product.name}</h3>
         <p className="pb-3">{product.description}</p>
