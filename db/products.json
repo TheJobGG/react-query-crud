@@ -8,8 +8,8 @@
       "stock": 42,
       "tags": [
         "5G",
-        "triple-lens camera",
-        "large battery"
+        "Triple-lens camera",
+        "Large battery"
       ],
       "category": "Electronics"
     },
@@ -21,8 +21,8 @@
       "stock": 87,
       "tags": [
         "10.5-inch",
-        "high-resolution display",
-        "stylus support"
+        "High-resolution display",
+        "Stylus support"
       ],
       "category": "Electronics"
     },
@@ -33,8 +33,8 @@
       "price": 250,
       "stock": 29,
       "tags": [
-        "fitness-focused",
-        "heart rate monitoring",
+        "Fitness-focused",
+        "Heart rate monitoring",
         "GPS"
       ],
       "category": "Wearable"
@@ -46,9 +46,9 @@
       "price": 100,
       "stock": 12,
       "tags": [
-        "waterproof",
-        "long battery life",
-        "sleep tracking"
+        "Waterproof",
+        "Lng battery life",
+        "Sleep tracking"
       ],
       "category": "Wearable"
     },
@@ -59,7 +59,7 @@
       "price": 1500,
       "stock": 73,
       "tags": [
-        "high-performance",
+        "Jigh-performance",
         "40 mile range",
         "20mph top speed"
       ],
@@ -72,9 +72,9 @@
       "price": 50,
       "stock": 0,
       "tags": [
-        "bluetooth-enabled",
-        "body composition analysis",
-        "app integration"
+        "Bluetooth enabled",
+        "Body composition analysis",
+        "App integration"
       ],
       "category": "Health"
     },
@@ -87,7 +87,7 @@
       "tags": [
         "4K camera",
         "GPS stabilization",
-        "obstacle avoidance"
+        "Obstacle avoidance"
       ],
       "category": "Electronics"
     },
@@ -99,8 +99,8 @@
       "stock": 54,
       "tags": [
         "Wi-Fi-enabled",
-        "voice control",
-        "energy-saving"
+        "Voice control",
+        "Energy-saving"
       ],
       "category": "Smart Home"
     },
@@ -111,9 +111,9 @@
       "price": 300,
       "stock": 31,
       "tags": [
-        "smart",
-        "mapping",
-        "scheduling"
+        "Smart",
+        "Mapping",
+        "Scheduling"
       ],
       "category": "Smart Home"
     },
@@ -124,11 +124,24 @@
       "price": 100,
       "stock": 0,
       "tags": [
-        "wireless",
-        "night vision",
-        "two-way audio"
+        "Wireless",
+        "Night vision",
+        "Two-way audio"
       ],
       "category": "Smart Home"
+    },
+    {
+      "name": "    ",
+      "price": "123",
+      "stock": "123",
+      "tags": [
+        "D",
+        "Dd",
+        "Dd"
+      ],
+      "category": "Eee",
+      "description": "ssafads",
+      "id": 21
     }
   ]
 }
