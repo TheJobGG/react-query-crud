@@ -70,7 +70,7 @@
       "name": "Smart Scale",
       "description": "Bluetooth-enabled smart scale with body composition analysis and app integration",
       "price": 50,
-      "stock": 73,
+      "stock": 0,
       "tags": [
         "bluetooth-enabled",
         "body composition analysis",
@@ -129,19 +129,6 @@
         "two-way audio"
       ],
       "category": "Smart Home"
-    },
-    {
-      "name": "Headphones",
-      "price": "200",
-      "tags": [
-        "Bluetooth",
-        "Folding Music",
-        "Portatil"
-      ],
-      "category": "Electronics",
-      "description": "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears.",
-      "stock": 45,
-      "id": 22
     }
   ]
 }
